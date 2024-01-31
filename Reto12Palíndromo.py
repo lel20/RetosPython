@@ -1,4 +1,3 @@
-
 # Crear un progrma que, dada una lista, devuelva como resultado una lista con los valores paredes. Para ello tener encuenta las siguientes reglas:
 # odd([1,2,3,4,5,6,7,8])=[2,4,6,8]
 # odd([0,1,2,3,4,5,6,7,8])=[1,2,5,7]
